@@ -34,6 +34,8 @@ dependencies {
     testImplementation 'org.springframework.security:spring-security-test'
     compile group: 'org.hibernate', name: 'hibernate-core', version: '5.2.9.Final'
     // compile group: 'org.springframework.data', name: 'spring-data-commons', version: '1.13.0.RELEASE'
+    compile group: 'org.python', name: 'jython', version: '2.7.2'
+
 }
 
 test {
