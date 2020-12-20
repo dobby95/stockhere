@@ -3,7 +3,6 @@ package com.stock.stockhere.domain;
 import lombok.Data;
 import org.apache.tomcat.jni.Local;
 import org.hibernate.annotations.CreationTimestamp;
-import org.springframework.data.annotation.CreatedDate;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;

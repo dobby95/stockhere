@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e152216-9212-4527-992b-55f780f5bed2" name="Default Changelist" comment="Initail Commit" />
+    <list default="true" id="0e152216-9212-4527-992b-55f780f5bed2" name="Default Changelist" comment="Initail Commit">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stock/stockhere/domain/StockHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stock/stockhere/domain/StockHistory.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +44,17 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StockhereApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="stockhere.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.stock.stockhere.StockhereApplication" />
@@ -38,6 +63,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -51,6 +77,11 @@
       <workItem from="1607769399909" duration="326000" />
       <workItem from="1607903690558" duration="885000" />
       <workItem from="1607910314016" duration="959000" />
+      <workItem from="1608441030238" duration="918000" />
+      <workItem from="1608442083421" duration="1404000" />
+      <workItem from="1608443518642" duration="95000" />
+      <workItem from="1608443625601" duration="144000" />
+      <workItem from="1608443785038" duration="197000" />
     </task>
     <task id="LOCAL-00001" summary="Initail Commit">
       <created>1607911042583</created>
@@ -63,36 +94,22 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initail Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initail Commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="634" y="255" key="FileChooserDialogImpl" timestamp="1607911265330">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="634" y="255" key="FileChooserDialogImpl/0.0.1707.1027/-1920.284.1920.1040@0.0.1707.1027" timestamp="1607911265330" />
-    <state x="731" y="411" key="Github.ShareDialog" timestamp="1607910941553">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="731" y="411" key="Github.ShareDialog/0.0.1707.1027/-1920.284.1920.1040@0.0.1707.1027" timestamp="1607910941553" />
-    <state x="255" y="154" key="SettingsEditor" timestamp="1607910900162">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="255" y="154" key="SettingsEditor/0.0.1707.1027/-1920.284.1920.1040@0.0.1707.1027" timestamp="1607910900162" />
-    <state x="446" y="233" key="Vcs.Push.Dialog.v2" timestamp="1607911056024">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="446" y="233" key="Vcs.Push.Dialog.v2/0.0.1707.1027/-1920.284.1920.1040@0.0.1707.1027" timestamp="1607911056024" />
-    <state x="638" y="301" key="git4idea.merge.GitPullDialog" timestamp="1607911101971">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="638" y="301" key="git4idea.merge.GitPullDialog/0.0.1707.1027/-1920.284.1920.1040@0.0.1707.1027" timestamp="1607911101971" />
-    <state x="656" y="420" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607911138499">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="656" y="420" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1707.1027/-1920.284.1920.1040@0.0.1707.1027" timestamp="1607911138499" />
   </component>
 </project>
